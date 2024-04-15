@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #483D8B; /* azul escuro */
+    color: #D8BFD8; /* roxo claro */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #8A2BE2; /* roxo médio */
+}
+
+button {
+    background-color: #6A5ACD; /* azul médio */
+    color: #D8BFD8; /* roxo claro */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #483D8B; /* azul escuro */
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 20px;
+}
